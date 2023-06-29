@@ -82,4 +82,3 @@
 
 - **Points de contact en cas de problèmes ou de demandes de support :** En cas de problèmes ou de demandes de support, les utilisateurs peuvent contacter directement le CEO Antoine GUYON ou le CTO Benoit Despierres.
 - **Accords de niveau de service (SLA) :** Un accord de niveau de service (SLA) est en place pour garantir la disponibilité et la réactivité du support technique. Le SLA est basé sur les garanties fournies par le prestataire CUCDB (Centre Universitaire de Calcul de Dijon-Bourgogne).
-- 
